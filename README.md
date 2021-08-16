@@ -1,5 +1,5 @@
 # MVP  
-describes mvp architecture pattern  
+Describes mvp architecture pattern  
 steps that occur inside the mvp  
 1- view asks presenter about data (after a certain event like click event)  
 2- presenter gets the data form the model / database  
